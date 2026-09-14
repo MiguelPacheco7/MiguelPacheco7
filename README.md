@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div class="flex">
+<div align="center">
     <!-- Adicionada a class="item" abaixo -->
     <div class="item">
         <a href="https://git.io/streak-stats">
