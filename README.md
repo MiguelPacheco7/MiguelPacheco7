@@ -1,18 +1,28 @@
 ## Hi there 👋
 <style>
-        .container {
-            display: flex;
-            gap: 15px; /* Espaço entre os itens */
-        }
-        .item {
-            background-color: lightblue;
-            padding: 10px;
-        }
+    .container {
+        display: flex;
+        gap: 15px; /* Espaço entre os itens */
+    }
+    .item {
+        background-color: lightblue;
+        padding: 10px;
+    }
 </style>
+
 <div class="container">
-    <div>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiguelPacheco7)](https://git.io/streak-stats)</div>
-    <div>![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ggwncqqlt7c3hpp3lfkyegpvhy)</div>
+    <!-- Adicionada a class="item" abaixo -->
+    <div class="item">
+        <a href="https://git.io/streak-stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelPacheco7" alt="GitHub Streak">
+        </a>
+    </div>
+    <!-- Adicionada a class="item" abaixo e ajustada a tag da imagem -->
+    <div class="item">
+        <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ggwncqqlt7c3hpp3lfkyegpvhy" alt="Spotify recently played">
+    </div>
 </div>
+
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
