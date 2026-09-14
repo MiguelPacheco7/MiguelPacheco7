@@ -11,9 +11,6 @@
     </div>
 </div>
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
