@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Estatísticas do GitHub](https://vercel.com/miguelpacheco7)
-![Estatísticas do GitHub](https://rishavanand.github.io/static/images/greetings.gif)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <div>
   <a href="https://github.com/MiguelPacheco">
