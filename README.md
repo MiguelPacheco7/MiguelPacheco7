@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiguelPacheco7)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiguelPacheco7)](https://git.io/streak-stats)
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ggwncqqlt7c3hpp3lfkyegpvhy)
 
