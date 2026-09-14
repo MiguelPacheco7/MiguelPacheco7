@@ -1,8 +1,18 @@
 ## Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiguelPacheco7)](https://git.io/streak-stats)
-
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ggwncqqlt7c3hpp3lfkyegpvhy)
-
+<style>
+        .container {
+            display: flex;
+            gap: 15px; /* Espaço entre os itens */
+        }
+        .item {
+            background-color: lightblue;
+            padding: 10px;
+        }
+</style>
+<div class="container">
+    <div>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiguelPacheco7)](https://git.io/streak-stats)</div>
+    <div>![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ggwncqqlt7c3hpp3lfkyegpvhy)</div>
+</div>
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
