@@ -1,6 +1,6 @@
 ## Hi there 👋
-
 ![Estatísticas do GitHub](https://vercel.com/miguelpacheco7)
+![Estatísticas do GitHub](https://rishavanand.github.io/static/images/greetings.gif)
 
 <div>
   <a href="https://github.com/MiguelPacheco">
@@ -10,15 +10,7 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelPacheco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-<div>
-  <a href="https://github.com">
-    <img loading="lazy" height="180em" src="https://vercel.app"/>
-  </a>
-  <a href="https://github.com">
-    <img loading="lazy" height="180em" src="https://vercel.app"/>
-  </a>
-</div>
-
+![Status](https://rishavanand.github.io/static/images/greetings.gif)
 
 ### Tecnologias que eu uso no meu dia a dia
 
