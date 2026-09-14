@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelpacheco7&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://vercel.app)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpacheco7&stats_format=bytes)
 
