@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-<div border="0">
-    <!-- Adicionada a class="item" abaixo -->
-    <div class="item">
+<div>
+    <div>
         <a href="https://git.io/streak-stats">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelPacheco7" alt="GitHub Streak">
         </a>
     </div>
-    <!-- Adicionada a class="item" abaixo e ajustada a tag da imagem -->
-    <div class="item">
+    <div>
         <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ggwncqqlt7c3hpp3lfkyegpvhy" alt="Spotify recently played">
     </div>
 </div>
