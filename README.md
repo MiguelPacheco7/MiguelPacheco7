@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Estatísticas do GitHub](https://vercel.com/miguelpacheco7s-projects)
+![Estatísticas do GitHub](https://vercel.com/miguelpacheco7)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpacheco7&stats_format=bytes)
 
