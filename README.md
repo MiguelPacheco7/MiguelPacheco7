@@ -1,16 +1,6 @@
 ## Hi there 👋
-<style>
-    .container {
-        display: flex;
-        gap: 15px; /* Espaço entre os itens */
-    }
-    .item {
-        background-color: lightblue;
-        padding: 10px;
-    }
-</style>
 
-<div class="container">
+<div class="flex">
     <!-- Adicionada a class="item" abaixo -->
     <div class="item">
         <a href="https://git.io/streak-stats">
