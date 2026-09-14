@@ -10,7 +10,14 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelPacheco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
+<div>
+  <a href="https://github.com">
+    <img loading="lazy" height="180em" src="https://vercel.app"/>
+  </a>
+  <a href="https://github.com">
+    <img loading="lazy" height="180em" src="https://vercel.app"/>
+  </a>
+</div>
 
 ### Tecnologias que eu uso no meu dia a dia
 
